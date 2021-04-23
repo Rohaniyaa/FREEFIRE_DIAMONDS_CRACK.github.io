@@ -1,0 +1,29 @@
+.info{
+  background: #000000B0;
+  border-top: solid 5px wheat;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: solid 5px wheat;
+  padding: px;
+  margin: -10px;
+}
+
+.UID{
+  border: solid 5px lavender;
+  border-radius: 25px;
+  background: #FF0000AB;
+  padding: px;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 16pt;
+  color: whitesmoke;
+  
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
